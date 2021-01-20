@@ -9,7 +9,7 @@
 
 .Title{
 	font-family:inherit;
-	font-size:auto;
+	font-size:50px;
 }
 .title{
 	position: relative;
@@ -24,7 +24,7 @@
 }
 .poftitle{
 	font-family:inherit;
-	font-size:auto;
+	font-size:50px;
 	position: relative;
 	top:-480px;
 	left:270px;
